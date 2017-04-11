@@ -1,0 +1,24 @@
+{
+  "name": "mirkhamidov/yii2-seo",
+  "description": "Handy module for managing seo attributes",
+  "type": "yii2-extension",
+  "keywords": ["yii2","extension","seo"],
+  "license": "MIT",
+  "support": {
+    "source": "https://github.com/mirkhamidov/yii2-seo"
+  },
+  "authors": [
+    {
+      "name": "Jasur Mirkhamidov",
+      "email": "mirkhamidov.jasur@gmail.com"
+    }
+  ],
+  "require": {
+    "yiisoft/yii2": "*"
+  },
+  "autoload": {
+    "psr-4": {
+      "mirkhamidov\\seo\\": ""
+    }
+  }
+}
